@@ -32,3 +32,22 @@ if(isAgeGreater) {
 } else {
     alert("HA! Pascal is winning in age")
 }
+
+//French Toast, Bacon Cheeseburger, Chicken Fried Steak
+
+// let timeOfDay = 1000
+
+// let mealOfChoice = ''
+
+// if (timeOfDay < 1200){
+//   mealOfChoice = "French Toast"
+// }
+// else if (timeOfDay > 1200 && timeOfDay < 1700){
+//   mealOfChoice = "French Toast"
+// }
+// else if (timeOfDay > 1700){
+//   mealOfChoice = "Chicken Fried Steak"
+// }
+
+// console.log(`It is ${timeOfDay}, time to have ${mealOfChoice}`)
+
