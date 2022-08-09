@@ -67,3 +67,10 @@ if(isAgeGreater) {
 // }
 
 // displayMessage()
+
+// function displayNumber(){
+//   for(i = 0; i < 11; i++){
+//     console.log(`${i}`);
+//   }
+// }
+// displayNumber()
