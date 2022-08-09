@@ -60,4 +60,10 @@ if(isAgeGreater) {
 // else if (bandNumber > 5 && bandNumber < 9) {console.log ("My favorite band is the Floyd")}
 // else if (bandNumber > 8 && bandNumber < 11) {console.log ("My favorite band is the Hendrix")}
 
+// function displayMessage(){
+//   for(i = 0; i < 7; i++){
+//     console.log(`JavaScript is cool!`);
+//   }
+// }
 
+// displayMessage()
