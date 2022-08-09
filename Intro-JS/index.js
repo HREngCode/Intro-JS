@@ -74,3 +74,11 @@ if(isAgeGreater) {
 //   }
 // }
 // displayNumber()
+
+// function displayPhrase(){
+//   for(i = 0; i < 5; i++){
+//     console.log(`hello`);
+//     console.log(`goodbye`);
+//   }
+// }
+// displayPhrase()
