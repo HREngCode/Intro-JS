@@ -82,3 +82,9 @@ if(isAgeGreater) {
 //   }
 // }
 // displayPhrase()
+
+// function printMovieName(){
+// let favoriteMovie = "Smokey and The Bandit"
+// console.log(`${favoriteMovie}`)}
+
+// printMovieName()
