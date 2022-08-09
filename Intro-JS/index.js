@@ -51,3 +51,13 @@ if(isAgeGreater) {
 
 // console.log(`It is ${timeOfDay}, time to have ${mealOfChoice}`)
 
+// function genRandomNumber(min, max) {
+//   return Math.floor(Math.random() * 11);
+// }
+// let bandNumber = genRandomNumber();
+// if (bandNumber < 3) {console.log ("My favorite band is the Beatles")}
+// else if (bandNumber > 2 && bandNumber < 6) {console.log ("My favorite band is the Stones")}
+// else if (bandNumber > 5 && bandNumber < 9) {console.log ("My favorite band is the Floyd")}
+// else if (bandNumber > 8 && bandNumber < 11) {console.log ("My favorite band is the Hendrix")}
+
+
