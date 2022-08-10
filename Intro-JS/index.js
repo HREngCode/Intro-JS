@@ -32,3 +32,11 @@ if(isAgeGreater) {
 } else {
     alert("HA! Pascal is winning in age")
 }
+
+// const desktopItems = ['cabinet','desk','computer'];
+// console.log(desktopItems['1']);
+// desktopItems.push('Infinity Gauntlet');
+// let deskItemsLen = desktopItems.length;
+// for (let i = 0; i < deskItemsLen; i++){
+//   console.log(desktopItems[i]);
+// }
